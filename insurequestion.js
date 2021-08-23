@@ -1,8 +1,3 @@
-function booleanToString(b){
-  if (b == true) {
-    return 'true'
-  } else if (b == false) {
-    return 'false';
-  }
-   
- }
+function insurequestion() {
+  return s[s.length - 1] === "?" ? s: s + "?";
+}
