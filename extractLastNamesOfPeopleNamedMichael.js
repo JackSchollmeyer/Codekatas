@@ -1,4 +1,4 @@
-//This function will take in a string and return an array of the last names of anyone names 'Michael'
+//This function will take in a string and return an array of the last names of anyone named 'Michael'
 
 function getMichaelLastName(inputText) {
     let arr = [];
