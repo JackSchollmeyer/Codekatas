@@ -1,4 +1,4 @@
-//This function takes two numbers and returns the sum of all each number being cubed that comes between them.
+//This function takes two numbers and returns the sum of each number being cubed that comes between them.
 //Including the larger number and not including the smaller number
 
 function cubeSum(n, m) {
